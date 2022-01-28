@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Diferen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Multiplos", "Desafios-DIO_.NET - Multiplos\Desafios-DIO_.NET - Multiplos.csproj", "{3E3FD8CA-311C-4587-837F-75576CD7F6FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Calculo Simples", "Desafios-DIO_.NET - Calculo Simples\Desafios-DIO_.NET - Calculo Simples.csproj", "{70C1889F-8974-4980-B48E-6A9D1F456FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3E3FD8CA-311C-4587-837F-75576CD7F6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3FD8CA-311C-4587-837F-75576CD7F6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E3FD8CA-311C-4587-837F-75576CD7F6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C1889F-8974-4980-B48E-6A9D1F456FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C1889F-8974-4980-B48E-6A9D1F456FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C1889F-8974-4980-B48E-6A9D1F456FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C1889F-8974-4980-B48E-6A9D1F456FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
