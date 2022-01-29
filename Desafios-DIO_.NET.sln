@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Vai ter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Teste de Seleção 1", "Desafios-DIO_.NET - Teste de Seleção 1\Desafios-DIO_.NET - Teste de Seleção 1.csproj", "{98D85E45-F18F-4306-81F1-9A3C13BCB88D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Média 3", "Desafios-DIO_.NET - Média 3\Desafios-DIO_.NET - Média 3.csproj", "{99A570FB-00AF-4B00-AB1C-4F98E6AFA022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{98D85E45-F18F-4306-81F1-9A3C13BCB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D85E45-F18F-4306-81F1-9A3C13BCB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D85E45-F18F-4306-81F1-9A3C13BCB88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A570FB-00AF-4B00-AB1C-4F98E6AFA022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A570FB-00AF-4B00-AB1C-4F98E6AFA022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A570FB-00AF-4B00-AB1C-4F98E6AFA022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A570FB-00AF-4B00-AB1C-4F98E6AFA022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
