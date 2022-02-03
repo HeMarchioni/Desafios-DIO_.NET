@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Contage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Triângulo", "Desafios-DIO_.NET - Triângulo\Desafios-DIO_.NET - Triângulo.csproj", "{79F17987-A51B-47B8-97C7-4BE70A29F8C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Compras no Supermercado", "Desafios-DIO_.NET - Compras no Supermercado\Desafios-DIO_.NET - Compras no Supermercado.csproj", "{51802BBE-D49D-4A0A-A320-E0F5597FADE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{79F17987-A51B-47B8-97C7-4BE70A29F8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79F17987-A51B-47B8-97C7-4BE70A29F8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79F17987-A51B-47B8-97C7-4BE70A29F8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51802BBE-D49D-4A0A-A320-E0F5597FADE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51802BBE-D49D-4A0A-A320-E0F5597FADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51802BBE-D49D-4A0A-A320-E0F5597FADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51802BBE-D49D-4A0A-A320-E0F5597FADE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
