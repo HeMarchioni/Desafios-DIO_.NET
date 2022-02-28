@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafios-DIO_.NET - Compras
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Dividindo X por Y", "Desafios-DIO_.NET - Dividindo X por Y\Desafios-DIO_.NET - Dividindo X por Y.csproj", "{0D2F7139-591E-407C-BB65-282FBB673078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Esfera", "Desafios-DIO_.NET - Esfera\Desafios-DIO_.NET - Esfera.csproj", "{6C412957-6D67-4CC9-B3AE-F3550BB0F42F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0D2F7139-591E-407C-BB65-282FBB673078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2F7139-591E-407C-BB65-282FBB673078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D2F7139-591E-407C-BB65-282FBB673078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C412957-6D67-4CC9-B3AE-F3550BB0F42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C412957-6D67-4CC9-B3AE-F3550BB0F42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C412957-6D67-4CC9-B3AE-F3550BB0F42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C412957-6D67-4CC9-B3AE-F3550BB0F42F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
