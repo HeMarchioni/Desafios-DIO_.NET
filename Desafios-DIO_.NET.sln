@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Esfera"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Xenlonguinho", "Desafios-DIO_.NET - Xenlonguinho\Desafios-DIO_.NET - Xenlonguinho.csproj", "{3A76073F-CEBD-4341-A3D9-B9FAF31662E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-DIO_.NET - Pedro Bento e o Mundo de OZ", "Desafios-DIO_.NET - Pedro Bento e o Mundo de OZ\Desafios-DIO_.NET - Pedro Bento e o Mundo de OZ.csproj", "{AF5EEE8C-447E-40CD-9600-06ED2F08EA2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3A76073F-CEBD-4341-A3D9-B9FAF31662E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A76073F-CEBD-4341-A3D9-B9FAF31662E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A76073F-CEBD-4341-A3D9-B9FAF31662E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5EEE8C-447E-40CD-9600-06ED2F08EA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5EEE8C-447E-40CD-9600-06ED2F08EA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5EEE8C-447E-40CD-9600-06ED2F08EA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5EEE8C-447E-40CD-9600-06ED2F08EA2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
